@@ -1,20 +1,11 @@
 .header {
-    background-color: #b1b1b1;
+    background-color: #7f96fa;
 }
 
 .header-area {
     padding: 20px;
 }
-.logo {
-    border: 1px solid black;
-    color: black;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 40px;
-    width: 100px;
-    height: 40px;
-}
+
 
 .main{
     /* background-color: #e7e7e7; */
@@ -62,7 +53,7 @@
 }
 
 .header-area .nav input {
-    width: 100px;
+    width: 140px;
 }
 
 #div-search{
